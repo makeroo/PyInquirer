@@ -15,7 +15,7 @@ dependency_links = [x.strip().replace('git+', '') for x in all_reqs \
 
 setup(
     name='PyInquirer',
-    version='1.0.3',
+    version='2.0.0.0',
     description=(
           'A Python module for collection of common interactive command line user interfaces,'
           ' based on Inquirer.js'
@@ -40,7 +40,7 @@ setup(
     packages=find_packages(exclude=['docs', 'tests*']),
     include_package_data=True,
     author='Oyetoke Toby',
-    download_url='https://github.com/CITGuru/PyInquirer/archive/1.0.3.tar.gz',
+    # download_url='https://github.com/CITGuru/PyInquirer/archive/1.0.3.tar.gz',
     install_requires=install_requires,
     dependency_links=dependency_links,
     author_email='oyetoketoby80@gmail.com',

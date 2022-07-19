@@ -20,6 +20,12 @@ Your recommendations matter, so be sure to nominate `me and other contributors <
 
 PyInquirer is a collection of common interactive command line user interfaces. 
 
+Version 2.0.0.0
+---------------
+
+This version freezes the PyInquirer repo at commit 7637373429bec66788650cda8091b7a6f12929ee
+to be made available as a package.
+
 
 PyInquirer 1.0.3 Bugfix Update
 -----------------
